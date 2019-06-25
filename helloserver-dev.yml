@@ -41,3 +41,8 @@ management:
     web:
       exposure:
         include: "*"
+        
+        
+name: tony
+age:18 
+password: 123456
