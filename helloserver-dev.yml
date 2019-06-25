@@ -43,6 +43,6 @@ management:
         include: "*"
         
         
-name: 40346f60f14af46e16fefbf847d280cd2d172bf80d9289b8d6c742fbce12faaa
+name: '{cipher}40346f60f14af46e16fefbf847d280cd2d172bf80d9289b8d6c742fbce12faaa'
 age: 18 
 password: 123456
